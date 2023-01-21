@@ -7,7 +7,6 @@ Dataset are collected from: Centers for Disease Control and Prevention (https://
  
 # Models used
 - [Autoregression Moving Average](https://github.com/Lester0142/Covid_Data_Analysis/blob/main/ARMA.ipynb)
-- [Classification Tree](https://github.com/Lester0142/Covid_Data_Analysis/blob/main/Classifcation%20Tree.ipynb)
 - [Regression](https://github.com/Lester0142/Covid_Data_Analysis/blob/main/Regression.ipynb)
 
 # Conclusion
