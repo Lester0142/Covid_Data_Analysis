@@ -3,7 +3,7 @@
 Dataset are collected from: Centers for Disease Control and Prevention (https://covid.cdc.gov/covid-data-tracker/#datatracker-home)
 
 # Problem Definition 
-#### What is the outlook of Covid in the near future?
+#### Using Machine learning models what is the outlook of COVID?
  
 # Models used
 - [Autoregression Moving Average](https://github.com/Lester0142/Covid_Data_Analysis/blob/main/ARMA.ipynb)
