@@ -6,7 +6,7 @@ Dataset are collected from: Centers for Disease Control and Prevention (https://
 #### Using Machine learning models what is the outlook of COVID?
  
 # Models used
-- [Autoregression Moving Average](https://github.com/Lester0142/Covid_Data_Analysis/blob/main/ARMA.ipynb)
+- [Autoregressive Moving Average](https://github.com/Lester0142/Covid_Data_Analysis/blob/main/ARMA.ipynb)
 - [Regression](https://github.com/Lester0142/Covid_Data_Analysis/blob/main/Regression.ipynb)
 
 # Conclusion
